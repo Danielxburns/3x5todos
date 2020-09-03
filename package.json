@@ -1,0 +1,19 @@
+{
+  "name": "3x5todos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielxburns/3x5todos.git"
+  },
+  "author": "Daniel Burns <danielburnstech@gmail.com> (danielburns.info)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danielxburns/3x5todos/issues"
+  },
+  "homepage": "https://github.com/Danielxburns/3x5todos#readme"
+}
